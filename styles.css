@@ -1,0 +1,8 @@
+:root {
+  --bs-orange: #fd7e14; /* Bootstrap’s default orange shade */
+}
+.card img {
+  width: 100%;
+  height: 250px; /* same height for all */
+  object-fit: cover; /* crops neatly without stretching */
+}
